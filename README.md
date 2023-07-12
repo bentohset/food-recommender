@@ -29,10 +29,10 @@ Web form - add restaurant reviews
 
 ## Planning
 Version 1.0 
-  - Telegram bot <-> Flask Backend
+  - Telegram bot <-> Server
   - OpenAI API
   - Suggest food places through prompt engineering
 
 Version 2.0
-  - Telegram bot <-> Flask <-> DB
+  - Telegram bot <-> Server <-> DB
   - Store user preferences
