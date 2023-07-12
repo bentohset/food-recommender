@@ -1,4 +1,4 @@
-# food-recommender
+# go-eats
 A food recommender system
 
 ## Scope
