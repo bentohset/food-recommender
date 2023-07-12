@@ -26,3 +26,13 @@ Web form - add restaurant reviews
 - As an indecisive user I want to get food recommendation based on my mood and budget
 - As an adventurous person I want to get food outside my comfort zone
 - As a meticulous person I want to see which dish is recommended so that I can maximise my budget
+
+## Planning
+Version 1.0 
+  - Telegram bot <-> Flask Backend
+  - OpenAI API
+  - Suggest food places through prompt engineering
+
+Version 2.0
+  - Telegram bot <-> Flask <-> DB
+  - Store user preferences
