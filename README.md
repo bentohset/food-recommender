@@ -13,10 +13,6 @@ Telegram bot - Get user preferences for food, recommends places
 ChatGPT API - get dish recommendations
 
 DB 
-- store user preferences
-  - dietary requirements
-  - favourite cuisines
-  - previous recommendations
 - store restaurants
   - budget range
   - mood
@@ -41,6 +37,22 @@ Recommendation Algorithm
   - periodically retrain model
 
 Web form - add restaurant reviews
+- Name of place (auto complete with google maps api) only in SG
+- Chain?
+- Budget
+- Mood dropdown single select
+- Cuisine dropdown multiple
+- Mealtime dropdown multiple
+- Rating stars
+
+Web form - approval from admin
+- pending table
+  - able to edit, delete and approve
+  - sort by column
+- approved table
+  - able to edit and delete
+  - pagination
+  - sort by column
 
 ## User stories
 
@@ -49,7 +61,7 @@ Web form - add restaurant reviews
 - As a meticulous person I want to see which dish is recommended so that I can maximise my budget
 
 ## Planning
-Version 1.0 
+Version 1.0 [DONE]
   - Telegram bot <-> Server
   - OpenAI API
   - Suggest food places through prompt engineering
@@ -67,15 +79,19 @@ Version 3.0
 
 ## Features
 Commands
-1. menu that changes
+1. telegram input menu
   - mealtime (brunch, lunch, dinner, snack)
   - cuisine dont wants
   - budget ()
   - mood (comfort, energy, healthy, indulgent, exotic)
 
 2. generative output
+  - chatGPT enabled recommendation
+  - generate based on machine learning model
 
-3. user preferences
+3. user recommendations
+  - submit personal recommendations through a website
+  - pending approval from admin
 
 
 mealtime -> budget -> mood (option menu)
@@ -88,9 +104,11 @@ Deploy each service to K8s
 .yaml files for both services in a `root/deployment` folder
 - declare deployment manifests for kubernetes
 
-Inter-service routing: REST API
+Bot --- Recommender: gRPC
+Form --- DB: REST
+Recommender --- DB: REST
+
+DB: Azure Database for PostgreSQL - Flexible
 
 Host Kubernetes cluster on cloud free (1 node):
-- GCP
 - Azure
-- AWS EKS
