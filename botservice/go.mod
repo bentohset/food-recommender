@@ -1,4 +1,4 @@
-module go-eats
+module go-eats/botservice
 
 go 1.20
 

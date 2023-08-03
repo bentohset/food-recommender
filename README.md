@@ -56,10 +56,10 @@ Version 1.0
 
 Version 2.0
   - Telegram bot <-> Server <-> DB
-  - Store user preferences
   - Store restaurants
   - Suggest food based on DB
-  - ChatGPT option
+  - Allow users to add restaurants to a website (mobile based) and wait for pending approval
+  - Admin accepts/rejects/edits restaurant requests to the DB
 
 Version 3.0
   - Telegram bot <-> Server <-> DB

@@ -1,3 +1,6 @@
+// main telegram bot which asks for user inputs and outputs the recommended result
+// communicates with recommendationservice through gRPC
+
 package main
 
 import (
