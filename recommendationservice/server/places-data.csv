@@ -1,0 +1,268 @@
+﻿name,budget,mood,cuisine,mealtime,rating
+Oven & Fried Chicken,25,comfort,"Korean, Chicken","Lunch, Dinner",3
+O Chicken & Beer,25,comfort,"Korean, Chicken","Lunch, Dinner",4
+Kko Kko Nara,20,comfort,"Korean, Chicken","Lunch, Dinner",4
+Ah Tan Wings,10,comfort,"Chinese, Chicken","Lunch, Dinner",3
+Chir Chir,20,comfort,"Korean, Chicken","Lunch, Dinner",3
+Twins Korean Restaurant,25,comfort,"Korean, Chicken","Lunch, Dinner",4
+Waker Chicken,15,comfort,"Korean, Chicken","Lunch, Dinner",4
+Chix Hot Chicken,10,casual,"Western, Chicken","Lunch, Dinner",5
+Victor Famous Fried Chicken Wing Rice,10,casual,"Chinese, Chicken","Lunch, Dinner",4
+Chic-A-Boo,10,casual,"Fast food, Chicken","Lunch, Dinner",3
+4 Fingers,12,casual,"Fast food, Chicken","Lunch, Dinner",4
+Wings Stop,15,casual,"Fast food, Chicken","Lunch,Dinner",4
+Jinjja Chicken,14,casual,"Korean, Chicken, Fast food","Lunch, Dinner",3
+Ela,30,"indulgent, comfort",Greek,"Lunch, Dinner",5
+Elfuego,30,comfort,Western,"Lunch, Dinner",4
+The Halia,40,"indulgent, comfort",Asian,"Lunch, Dinner",4
+Afterwit Bar de Burrito,20,comfort,Mexican,"Lunch, Dinner",4
+Wakuwaku Yakiniku,50,indulgent,"Japanese, BBQ",Dinner,5
+Kohnangkam,20,comfort,Thai,"Lunch, Dinner",4
+Monster Planet,15,casual,Japanese,"Lunch, Dinner",4
+Royz et Vous,30,comfort,Western,"Lunch, Dinner",4
+Suki Suki Thai Hot Pot Buffet,25,indulgent,"Thai, Buffet","Lunch, Dinner",3
+Carousel,50,"indulgent, fancy","International, Buffet","Brunch, Lunch, Dinner",5
+Fika Swedish Café & Bistro,20,comfort,Swedish,"Lunch, Dinner",4
+The Ramen stall,15,casual,Japanese,"Lunch, Dinner",5
+Badoque,20,comfort,Western,Dinner,4
+Flavour Flings,20,comfort,Western,"Brunch, Lunch, Dinner",4
+Afterglow by Anglow,25,healthy,Vegetarian,"Lunch, Dinner",4
+Elemen,15,healthy,"Vegetarian, Asian","Lunch, Dinner",3
+The Boneless Kitchen,15,healthy,"Vegetarian, Korean","Lunch, Dinner",4
+Greendot,10,"healthy, casual","Vegetarian, Chinese","Lunch, Dinner",3
+Lucky Cat Vegetarian/Vegan Café,10,"healthy, casual","Vegetarian, Japanese","Lunch, Dinner",5
+Original Sin,30,healthy,"Vegetarian, Mediterranean","Lunch, Dinner",4
+VeganBurg,15,"healthy, comfort","Vegetarian, Burger","Lunch, Dinner",4
+Pano Kato,25,healthy,Greek,"Lunch, Dinner",4
+Smoocht,20,"healthy, comfort",Vegetarian,"Lunch, Dinner",5
+Genius Central,20,healthy,"Vegetarian, International","Brunch, Lunch, Dinner",4
+Potato Head,20,comfort,Burger,"Lunch, Dinner",4
+Two Blur Guys,20,comfort,Burger,"Lunch, Dinner",4
+Ashes Burnit,10,"comfort, casual",Burger,"Lunch, Dinner",4
+Wildfire Burger,15,comfort,Burger,"Lunch, Dinner",4
+25 Degrees Burgers,18,comfort,Burger,"Lunch, Dinner",4
+Meatsmith,30,"indulgent, comfort","Steak, Western","Lunch, Dinner",5
+Hans Im Gluck,20,comfort,"Burger, German","Lunch, Dinner",4
+Five Guys,25,"comfort, casual","Fast food, Burger","Lunch, Dinner",4
+Shake Shack,20,"comfort, casual","Fast food, Burger","Lunch, Dinner",4
+Skirt and Dirt,10,"comfort, casual",Burger,"Lunch, Dinner",5
+Burger Labo,25,comfort,Burger,"Lunch, Dinner",4
+Pizzaface,25,comfort,Italian,"Lunch, Dinner",5
+Chooby Pizza,20,comfort,Italian,"Lunch, Dinner",5
+Yellow Cab Pizza,25,comfort,Italian,"Lunch, Dinner",4
+Peproni Pizzeria,20,"comfort, casual",Italian,"Lunch, Dinner",4
+Publico Ristorante,25,comfort,Italian,"Lunch, Dinner",4
+Blue Label Pizza & Wine,35,comfort,Italian,"Lunch, Dinner",4
+IO Italian Osteria,23,comfort,Italian,"Lunch, Dinner",5
+Tipo Pasta Bar,25,comfort,Italian,"Lunch, Dinner",4
+Pasta Fresca Da Salvatore,20,comfort,Italian,"Lunch, Dinner",4
+Pasta Bar,30,comfort,Italian,"Lunch, Dinner",4
+Caffe Fernet,30,"comfort, fancy",Italian,"Lunch, Dinner",4
+LINO,30,"comfort, fancy",Italian,"Lunch, Dinner",5
+Eleven Strands,20,comfort,Italian,"Lunch, Dinner",4
+La Mensa,15,"comfort, casual",Italian,"Lunch, Dinner",4
+Brunches Café,20,comfort,Café,"Brunch, Lunch, Dinner",5
+Symmetry,30,comfort,Café,"Brunch, Lunch, Dinner",4
+SYIP,20,comfort,Café,"Brunch, Lunch, Dinner",4
+Coexist Coffee,20,comfort,Café,"Brunch, Lunch",4
+Joji's Diner,15,"comfort, casual",Western,"Brunch, Lunch, Dinner",4
+Lucid,10,comfort,"Café, Pastry","Brunch, Snack",4
+Equate,15,comfort,"Café, Pastry","Brunch, Snack",4
+Group Therapy Coffee,15,comfort,Café,"Brunch, Lunch, Dinner",4
+Tolido's Espresso Nook,20,comfort,Café,"Brunch, Lunch",4
+The Populus,20,comfort,Café,"Brunch, Lunch",4
+P.S. Cafe,30,"comfort, fancy",Café,"Brunch, Lunch, Dinner",4
+Wildseed Café & Bar at The Summerhouse4,25,comfort,Café,"Brunch, Lunch",4
+Common Man Stan,30,comfort,Café,"Brunch, Lunch, Dinner",4
+Bearded Bella,15,comfort,Café,"Brunch, Lunch, Dinner",4
+Lad & Dad,20,comfort,Café,"Lunch, Dinner",5
+The Garden Slug,15,comfort,Café,"Lunch, Dinner",5
+Oriole Coffee + Bar,20,comfort,Café,"Brunch, Lunch, Dinner",4
+The Fabulous Baker Boy,15,comfort,Café,"Brunch, Lunch, Dinner",4
+Wild Honey,25,comfort,Café,"Brunch, Lunch",4
+Dumpling Darlings,20,comfort,Chinese,"Lunch, Dinner",4
+Suzuki Gourmet Coffee,10,comfort,"Café, Japanese",Snack,5
+Sarnies,20,comfort,Café,"Brunch, Lunch, Dinner",4
+Earlybird,20,comfort,Café,"Brunch, Lunch",4
+Knots Café,20,comfort,Café,"Brunch, Lunch",4
+Coffeeman coffee roasters,20,comfort,Café,"Brunch, Lunch, Dinner",4
+Bakers Bench,10,comfort,Café,"Brunch, Snack",4
+Two Bakers,15,comfort,"Café, Japanese","Brunch, Snack",3
+Lola's Café,15,"comfort, casual",Café,"Brunch, Lunch, Dinner",5
+The Glasshouse,15,comfort,Café,"Brunch, Lunch",4
+French Fold,17,comfort,"Café, French, Dessert",Snack,5
+Alchemist,6,comfort,Café,Snack,5
+Seng Coffee Bar,20,comfort,Café,"Brunch, Lunch, Dinner",4
+Hvala,15,comfort,Café,Snack,4
+Dough Coffee,25,comfort,Café,"Brunch, Lunch",4
+Bees Knees Scenic Café,25,comfort,Café,"Brunch, Lunch",5
+Botany Café,20,comfort,Café,"Brunch, Lunch, Dinner",4
+Kreams,25,comfort,"Café, Dessert",Snack,4
+Onalu Bagel,20,"comfort, healthy",Café,"Brunch, Snack",5
+Old Hen Kitchen,18,comfort,Café,"Brunch, Lunch",5
+The Assembly Ground,25,"comfort, fancy","Café, Western","Brunch, Lunch, Dinner",5
+Burnt Ends,50,"fancy, indulgent","Western, BBQ, Steak","Lunch, Dinner",5
+Fyr,25,"fancy, indulgent","Western, BBQ, Steak","Lunch, Dinner",4
+The Feather Blade,25,indulgent,"Western, Steak","Lunch, Dinner",5
+Saveur Bistro,40,"fancy, indulgent","French, Steak","Lunch, Dinner",4
+Bedrock bar & Grill,50,"fancy, indulgent","Western, Steak","Lunch, Dinner",4
+Armoury Craft Beer and Steak,35,indulgent,"Western, BBQ, Steak, Buffet","Lunch, Dinner",4
+Waacow,20,"casual, comfort","Japanese, Steak","Lunch, Dinner",4
+Obba Jajang,15,"casual, comfort",Korean,"Lunch, Dinner",4
+Itaewon Jajang,15,"casual, comfort",Korean,"Lunch, Dinner",4
+Hanwoori Korean Restaurant,40,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",4
+Big Mama,30,comfort,Korean,"Lunch, Dinner",3
+Red Holics,20,comfort,"Korean, Chicken","Lunch, Dinner",4
+Don Dae Bak,45,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",4
+Gogi jip,40,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",4
+Todamgol,35,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",4
+Sin Man Bok,50,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",5
+Wang Dae Bak,40,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",4
+Tanjong Hwaro,45,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",4
+Kim Dae Mun,15,"comfort, casual",Korean,"Lunch, Dinner",4
+Three Meals A Day,30,comfort,Korean,"Lunch, Dinner",4
+Um Yong Baek,25,"comfort, healthy",Korean,"Lunch, Dinner",5
+Genki Sushi,20,"comfort, healthy, casual","Japanese, Sushi","Lunch, Dinner",4
+Sushiro,20,"comfort, healthy, casual","Japanese, Sushi","Lunch, Dinner",4
+Rappu Handroll Bar,40,"comfort, healthy, indulgent","Japanese, Sushi","Lunch, Dinner",5
+Standing Sushi Bar,20,"comfort, healthy","Japanese, Sushi","Lunch, Dinner",4
+Uminami Sushi Bowl,15,"comfort, healthy, casual","Japanese, Sushi","Lunch, Dinner",4
+Sushi Airways,30,"comfort, healthy","Japanese, Sushi","Lunch, Dinner",5
+Mitsuba,50,indulgent,"Japanese, Buffet","Lunch, Dinner",5
+Senshi,50,indulgent,"Japanese, Buffet","Lunch, Dinner",5
+Tatsuya,50,indulgent,"Japanese, Buffet","Lunch, Dinner",5
+Keisuke Ramen,15,"comfort, casual","Japanese, Ramen","Lunch, Dinner",3
+Yakiniku Go,25,"comfort, casual","Japanese, BBQ","Lunch, Dinner",4
+Tenya,15,"comfort, casual","Japanese, Tempura","Lunch, Dinner",4
+Nantsuttei,20,"comfort, casual","Japanese, Ramen","Lunch, Dinner",4
+Man Man Unagi,30,comfort,Japanese,"Lunch, Dinner",5
+Shimbashi Soba,25,comfort,Japanese,"Lunch, Dinner",4
+Sanpoutei,20,comfort,"Japanese, Ramen","Lunch, Dinner",4
+Muchachos,25,comfort,Mexican,"Lunch, Dinner",4
+Super Loco,30,comfort,Mexican,"Lunch, Dinner",4
+Guzman Y Gomez,15,"comfort, casual","Mexican, Fast food","Lunch, Dinner",4
+Vatos Urban Tacos,25,comfort,Mexican,"Lunch, Dinner",4
+Huevos,20,comfort,Mexican,"Lunch, Dinner",5
+Chimichangas,30,comfort,Mexican,Dinner,4
++886 Bistro Taiwanese,10,"comfort, casual","Chinese, Taiwanese","Lunch, Dinner",4
+Colony,60,"indulgent, fancy","Buffet, International","Lunch, Dinner",5
+The Line,60,"indulgent, fancy","Buffet, International","Lunch, Dinner",5
+Estate,60,"indulgent, fancy","Buffet, International","Lunch, Dinner",5
+Sunday Folks,15,"comfort, casual",Dessert,Snack,4
+Sweet Cheeks,10,"comfort, casual",Dessert,Snack,4
+Apiary,10,"comfort, casual",Dessert,Snack,5
+2am:dessertbar,25,"comfort, casual",Dessert,Snack,5
+Around Café,15,"comfort, casual","Dessert, Café","Brunch, Snack",4
+Ah Chew Desserts,6,"comfort, casual","Dessert, Chinese",Snack,5
+Kooks Creamery,10,"comfort, casual",Dessert,Snack,4
+FLOR Patisserie,15,"comfort, casual",Dessert,Snack,4
+Birds of Paradise,8,"comfort, casual","Dessert, Ice cream",Snack,5
+Monarchs & Milkweed Gelato,8,"comfort, casual","Dessert, Ice cream",Snack,5
+Fluffstack Café Pancakes,15,"comfort, casual",Dessert,Snack,4
+GRAM Pancakes,20,"comfort, casual",Dessert,Snack,4
+Sweet Reservations,12,"comfort, casual","Dessert, Korean",Snack,5
+Whiskdom,9,comfort,Café,Snack,4
+Old Village,2,casual,Chinese,"Lunch, Dinner",4
+Fico,34,comfort,Italian,"Lunch, Dinner",3
+DLLM Lok Lok,1,"comfort, casual",Chinese,Snack,3
+Golden Nur,4,casual,Malay,"Lunch, Dinner",3
+Honbo,19,"comfort, casual","Chinese, Fast food","Lunch, Dinner",4
+Tasty Thai,5,casual,Chinese,"Lunch, Dinner",3
+The Three Elephants,5,casual,Thai,"Lunch, Dinner",3
+Bismi Briyani,18,casual,Malay,"Lunch, Dinner",3
+Abang Curry,7,casual,Japanese,"Lunch, Dinner",3
+Breakfast Club,8,casual,"Cafe, Western","Brunch, Lunch, Dinner",3
+Apollo Coffee Bar,20,comfort,Café,"Brunch, Lunch, Dinner",4
+Lee's Confectionery,8,comfort,"Dessert, Pastry",Snack,4
+Pilcrow,19,"comfort, fancy",Dessert,Snack,4
+Yi Qian Ling Yi Ye Steamboat Buffet,15,"comfort, indulgent","Chinese, Buffet","Lunch, Dinner",3
+Jyu Gae Bistro,10,comfort,"Chinese, Taiwanese","Lunch, Dinner",3
+B For Bagel,8,"comfort, healthy",Café,"Brunch, Lunch",4
+Supreme Ramen Xiao Long Bao,4,"comfort, casual",Chinese,"Lunch, Dinner",3
+Xiang Gang Xin Kou Wei,3,"comfort, casual",Chinese,"Brunch, Lunch",3
+Bulgogi Syo,21,comfort,"Korean, BBQ","Lunch, Dinner",3
+Flying Pig,12,"comfort, casual",Thai,"Lunch, Dinner",4
+Ja Kin Mukata,39,"comfort, casual, indulgent","Thai, BBQ","Lunch, Dinner",3
+The One Tom Yam Mee,7,casual,Thai,"Lunch, Dinner",3
+Mocchi,9,casual,"Dessert, Japanese",Snack,3
+Ten Tenths,8,"casual, comfot",Chinese,"Lunch, Dinner",4
+Big Boy Franks,12,"casual, comfort","Wester, Burger",Dinner,3
+Hanjip Korean Grill House,50,"comfort, indulgent","Korean, BBQ","Lunch, Dinner",5
+Snap Cafe,7,comfort,"Korean, Café","Brunch, Snack",5
+Crolo,2,"casual, comfort",French,Snack,3
+Chen's Mapo Tofu,12,"casual, comfort",Chinese,"Lunch, Dinner",4
+Rachelrax Cakes,9,comfort,"Dessert, Pastry",Snack,3
+Hamburg Steak Keisuke,19,comfort,"Japanese, Steak","Lunch, Dinner",4
+Mei Kee Bakery,1,"comfort, casual","Chinese, Dessert, Pastry",Snack,3
+Chef Goo,7,casual,Chinese,"Lunch, Dinner",3
+Mama Curry,6,casual,Chinese,"Lunch, Dinner",3
+Hello Arigato Everton Park,9,comfort,"Café, Japanese","Brunch, Lunch, Dinner",4
+Kuan Zhai Alley,80,"fancy, indulgent",Chinese,"Lunch, Dinner",5
+Whisking Bakes,6,comfort,Dessert,Snack,4
+Jtown Cafe,8,"comfort, casual",Asian,"Lunch, Dinner",3
+Shuang Bao Thai,4,casual,Thai,"Lunch, Dinner",3
+Black Fairy,12,comfort,Café,"Brunch, Lunch, Dinner",4
+Geylang (Hamids) Briyani Stall,6,casual,Indian,Lunch,4
+Friends Kitchen HK,10,"comfort, casual",Chinese,"Lunch, DInner",4
+Ka-Soh,12,comfort,Chinese,"Lunch, DInner",3
+Supercurry,6,casual,Chinese,Lunch,3
+Lim Bo Fruit Rojak,6,casual,Chinese,Snack,3
+Lai Lai Taiwan Casual Dining,11,"casual, comfort","Chinese, Taiwanese","Lunch, Dinner",3
+BlackGoat,14,casual,Western,"Lunch, Dinner",4
+Pha Muk,6,casual,Thai,"Lunch, Dinner",3
+Rempapa,15,comfort,Chinese,"Lunch, Dinner",3
+Keong Saik Bakery,8,casual,"Chinese, Dessert",Snack,4
+Fantastic Dim Sum,4,casual,Chinese,"Brunch, Lunch",3
+Kok Sen Restaurant,25,comfort,Chinese,"Lunch, Dinner",3
+Burnt Cones,6,comfort,Dessert,Snack,4
+BANNGKOK Street Food,11,comfort,Thai,"Lunch, Dinner",3
+Heng Kee Curry Chicken,7,casual,Chinese,Lunch,4
+Butahage,13,comfort,Japanese,"Lunch, Dinner",4
+Osteria Mozza,42,fancy,Italian,"Lunch, Dinner",4
+Eat 3 Bowls,7,"comfort, casual","Chinese, Taiwanese","Lunch, Dinner",3
+Minced Pork Bros,6,casual,Chinese,Lunch,3
+Mister Donut,2,comfort,"Dessert, Pastry",Snack,3
+Niu Dian,13,"comfort, casual",Chinese,"Lunch, Dinner",3
+Beigelhaus++,14,comfort,Café,"Brunch, Lunch, Snack",3
+Indulge,5,casual,Western,"Lunch, Dinner",3
+Huat Heng Fried Oyster,7,casual,Chinese,"Lunch, Dinner",3
+Tha Chang Noodle Bar,10,"casual, comfort",Thai,"Lunch, Dinner",4
+Ms Durian,19,comfort,Dessert,Snack,4
+Haengbok Cakeyo,9,comfort,"Dessert, Korean",Snack,3
+Shi Wei Da,4,casual,Chinese,"Lunch, Dinner",4
+Hong Style Fried Rice,5,casual,Chinese,"Lunch, Dinner",3
+Brostern,23,"casual, indulgent",Western,"Lunch, Dinner",3
+Happy Pot,25,comfort,Chinese,"Lunch, Dinner",3
+The Voice,5,casual,"Chinese, Taiwanese","Lunch, Dinner",3
+Green Chilli Chicken Rice,5,casual,Malay,Lunch,4
+Garang Grill Express,15,casual,Western,"Lunch, Dinner",3
+Basilico,69,fancy,Italian,"Lunch, Dinner",4
+Smile Dessert,8,"casual, comfort","Dessert, Chinese",Snack,3
+Kelim Dakdoritang,29,comfort,Korean,"Lunch, Dinner",3
+Porcelain Cafe,22,"comfort, healthy",Dessert,Snack,3
+Chef Wei HK Cheong Fun,4,casual,Chinese,Lunch,4
+Chengdu Bowl,15,"comfort, healthy",Chinese,"Lunch, Dinner",3
+Tomyum Mama,13,"comfort, casual",Thai,"Lunch, Dinner",4
+Butter Bread,7,comfort,"Dessert, Pastry",Snack,4
+Lawa Bintang,15,casual,Malay,Lunch,4
+Lian He Ben Ji Claypot Rice,6,casual,Chinese,"Lunch, Dinner",4
+The Beef House,3,casual,Chinese,Lunch,3
+Breakfast Hola,5,"casual, comfort","Chinese, Taiwanese",Lunch,3
+JOFA Meepok,4,casual,Chinese,"Lunch, Dinner",4
+Numb Restaurant,23,comfort,Chinese,"Lunch, Dinner",4
+YAO YAO Sauerkraut Fish,39,comfort,Chinese,"Lunch, Dinner",3
+The Flying Pan,6,casual,Western,"Lunch, Dinner",3
+Yakiniku Hero,6,casual,"Japanese, BBQ","Lunch, Dinner",4
+Eightisfy Western,14,casual,Western,"Lunch, Dinner",4
+Rasa Sayang Western Food,10,casual,Western,"Lunch, Dinner",3
+Gogiyo,17,casual,Korean,"Lunch, Dinner",4
+Two Bake Boys Cafe,9,comfort,"Café, Dessert, Pastry",Snack,4
+Ms Maria And Mr Singh,70,"fancy, indulgent","Mexican, Indian","Lunch, Dinner",4
+Western Barbecue,10,casual,Western,"Lunch, Dinner",3
+Ye Lai Xiang Tasty Barbecue,13,casual,Western,"Lunch, Dinner",4
+Geylang Lor 29 Hokkien Mee,8,casual,Chinese,"Lunch, Dinner",3
+Ah Hoe Mee Pok,10,casual,Chinese,Lunch,4
+Yong He Eating House,3,"casual, comfort","Chinese, Pastry",Snack,2
+June Bakery,1,comfort,"Dessert, Pastry",Snack,4
+Taste of Home,6,casual,Chinese,"Lunch, Dinner",4
+O Happi Place,5,comfort,"Dessert, Ice cream",Snack,4
