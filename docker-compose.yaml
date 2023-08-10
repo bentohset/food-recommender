@@ -1,0 +1,27 @@
+version: '3'
+services:
+  bot-service:
+    build:
+      context: ./botservice
+      dockerfile: Dockerfile
+    container_name: go-eats-bot
+    ports:
+      - "8080:8080"
+    image: bentohset/go-eats-bot:latest
+    environment:
+      - DOCKERHUB_USERNAME=bentohset
+      - DOCKERHUB_PASSWORD=${DOCKER_PASSWORD}
+
+  recommendation-service:
+    build:
+      context: ./recommendationservice
+      dockerfile: Dockerfile
+    container_name: go-eats-ml
+    ports:
+      - "50051:50051"
+    image: bentohset/go-eats-ml:latest
+    stdin_open: true # docker run -i
+    tty: true  
+    environment:
+      - DOCKERHUB_USERNAME=bentohset
+      - DOCKERHUB_PASSWORD=${DOCKER_PASSWORD}
