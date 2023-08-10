@@ -140,6 +140,7 @@ func startQuestion(bot *tgbotapi.BotAPI, chatID int64, question string, choices 
 	menu := tgbotapi.NewInlineKeyboardMarkup(options...)
 	msg := tgbotapi.NewMessage(chatID, question)
 	msg.ReplyMarkup = &menu
+	msg.ParseMode = "MarkdownV2"
 
 	sentMessage, err := bot.Send(msg)
 	if err != nil {
@@ -274,7 +275,11 @@ func sendWelcomeMessage(bot *tgbotapi.BotAPI, chatID int64, userID int64) {
 	userState[userID] = StateQuestion1
 	userChoices[userID] = nil
 
-	startQuestion(bot, chatID, "Which meal are you looking recommendations for!",
+	startQuestion(
+		bot,
+		chatID,
+		"Welcome to Go Eats\\!\n\nRecommendations run on restaurant reviews so we would greatly appreciate any food recommendations from you. Simply click this [link](https://go-eats-form.vercel.app/) to fill up a form\\!\n\n"+
+			"To get a recommendation, answer the question\\(s\\) below\\! \nWhich meal are you looking recommendations for?",
 		[]string{"Brunch", "Lunch", "Dinner", "Snack/Dessert"})
 }
 
