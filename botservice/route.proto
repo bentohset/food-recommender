@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package routes;
+
+option go_package = "./;main";
+
+service MessageService {
+    rpc GetRecommendation (RecommendationRequest) returns (RecommendationResponse) {};
+    rpc Echo (EchoRequest) returns (EchoReply) {};
+    rpc GetPersonalised (PersonalRequest) returns (RecommendationResponse) {};
+}
+
+message RecommendationRequest {
+    string mealtime = 1;
+    string mood = 2;
+    repeated string cuisine_dont_wants = 3;
+    int32 budget = 4;
+}
+
+message RecommendationResponse {
+    repeated Place recommendations = 1;
+}
+
+message PersonalRequest {
+    string name = 1;
+}
+
+
+message Place {
+    string name = 1;
+    int32 budget = 2;
+    repeated string cuisine = 3;
+    int32 rating = 4;
+}
+
+message EchoReply {
+    string message = 1;
+}
+
+message EchoRequest {
+    string message = 1;
+}

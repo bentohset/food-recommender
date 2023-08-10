@@ -59,3 +59,10 @@ jspm_packages
 go.work
 
 *.env
+venv
+.env.*
+__pycache__
+
+*/*.pb.go
+*/*/*/route_pb2_grpc.py
+*/*/*/route_pb2.py

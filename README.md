@@ -83,7 +83,7 @@ Commands
   - mealtime (brunch, lunch, dinner, snack)
   - cuisine dont wants
   - budget ()
-  - mood (comfort, energy, healthy, indulgent, exotic)
+  - mood (comfort, healthy, indulgent, casual, fancy, anything)
 
 2. generative output
   - chatGPT enabled recommendation
@@ -92,6 +92,8 @@ Commands
 3. user recommendations
   - submit personal recommendations through a website
   - pending approval from admin
+
+4. generate output based on similar food place
 
 
 mealtime -> budget -> mood (option menu)
