@@ -1,4 +1,4 @@
-FROM golang:1.18
+FROM golang:alpine
 
 WORKDIR /bot-service
 
@@ -9,4 +9,4 @@ COPY . .
 
 RUN go build
 
-CMD ["./go-eats"]
+CMD ["./botservice"]
