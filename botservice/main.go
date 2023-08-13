@@ -150,6 +150,26 @@ func startQuestion(bot *tgbotapi.BotAPI, chatID int64, question string, choices 
 	return sentMessage.MessageID
 }
 
+func sendFinalQuestion(bot *tgbotapi.BotAPI, chatID int64, question string, choices []string) int {
+	var options [][]tgbotapi.InlineKeyboardButton
+	for _, choice := range choices {
+		options = append(options, []tgbotapi.InlineKeyboardButton{
+			tgbotapi.NewInlineKeyboardButtonData(choice, choice),
+		})
+	}
+
+	menu := tgbotapi.NewInlineKeyboardMarkup(options...)
+	msg := tgbotapi.NewMessage(chatID, question)
+	msg.ReplyMarkup = &menu
+
+	sentMessage, err := bot.Send(msg)
+	if err != nil {
+		log.Println(err)
+	}
+
+	return sentMessage.MessageID
+}
+
 // TODO: add new request method to server
 func sendPersonalized(bot *tgbotapi.BotAPI, chatID int64, userID int64, finalMessageID int, userIDChoices []string) {
 	//delete the previous message
@@ -265,7 +285,7 @@ func sendFinalResponse(bot *tgbotapi.BotAPI, chatID int64, userID int64, userIDC
 	}
 	response += "Not satisfied? Choose one of the above for a more personalized recommendation! \n"
 	// response += generatePrompt(userIDChoices)
-	messageID := startQuestion(bot, chatID, response, options)
+	messageID := sendFinalQuestion(bot, chatID, response, options)
 
 	return messageID
 
@@ -278,7 +298,7 @@ func sendWelcomeMessage(bot *tgbotapi.BotAPI, chatID int64, userID int64) {
 	startQuestion(
 		bot,
 		chatID,
-		"Welcome to Go Eats\\!\n\nRecommendations run on restaurant reviews so we would greatly appreciate any food recommendations from you. Simply click this [link](https://go-eats-form.vercel.app/) to fill up a form\\!\n\n"+
+		"Welcome to Go Eats\\!\n\nRecommendations run on restaurant reviews so we would greatly appreciate any food recommendations from you\\. Simply click this [link](https://go-eats-form.vercel.app/) to fill up a form\\!\n\n"+
 			"To get a recommendation, answer the question\\(s\\) below\\! \nWhich meal are you looking recommendations for?",
 		[]string{"Brunch", "Lunch", "Dinner", "Snack/Dessert"})
 }
