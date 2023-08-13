@@ -10,6 +10,9 @@ This project consists of many components as part of a microservice architecture:
 | REST API Server        | [go-eats-server repo](https://github.com/bentohset/go-eats-server)                             |
 Refer to the README in each folder/repo for more developer details
 
+
+> **_NOTE:_**  The system is offline from 12 midnight to 11am due to budget constraints
+
 To demo: [telegram bot](https://t.me/goeats_bot) or search for `@goeats_bot` in Telgram!
 
 ## Table of Contents
@@ -54,7 +57,24 @@ TBA
 TBA
 
 ## Setup
+Clone this repo
 Refer to individual README for specific setups
+
+Set .env variables:
+```
+DOCKER_PASSWORD=<dockerhub password for image repo>
+```
+
+For dockerizing, some commands:
+```
+docker-compose build <name(optional)>
+docker-compose push <name(optional)>
+docker-compose up <name(optional)>
+```
+docker-compose deployment names:
+- recommendation-service
+- bot-service
+
 
 ## Project Plan
 ### Scope

@@ -103,7 +103,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# TODO:
-# convert cafe the special e to normal e
-# remove weird unicode and
-# ensure starting is not b'
