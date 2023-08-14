@@ -27,7 +27,7 @@ python -m grpc_tools.protoc -I ./server/protos --python_out=./server/generated -
 ```
 
 >**Note:**
->python protoc generates wrong imports, fix *_grpc.py by adding a `from . ` import prefix
+>python protoc generates wrong imports, fix *_grpc.py by adding a `from . ` import prefix and
 >ensure both server and client have exact same .proto file (except for options)
 
 
@@ -88,7 +88,7 @@ How it works:
 
 
 ### Recommendation system
-Given user preferences of
+Given user preferences of:
 - mealtime
 - cuisine dont-wants
 - budget
@@ -120,7 +120,7 @@ messages:
 ```
 kubectl apply -f recommendation.yaml
 ```
-Deployed as a ClusterIP service as it is meant for internal use by telegram bot
+Deployed as a ClusterIP service as it is meant for internal use by telegram bot on port 83
 
 
 ## Todo
