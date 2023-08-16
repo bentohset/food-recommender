@@ -51,7 +51,8 @@ This project came about the problem of deciding for a food place as a group. Due
 | Database         | Azure Database for PostgreSQL      |
 
 ### Architecture
-TBA
+Microservices Architecture with Kubernetes was adopted
+![MSA](./lib/MSA.jpg)
 
 ## Screenshots
 TBA
