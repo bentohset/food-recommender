@@ -7,7 +7,7 @@ This project consists of many components as part of a microservice architecture:
 | Telegram Bot           | [/botservice](https://github.com/bentohset/go-eats/tree/main/botservice)                       |
 | ML Model               | [/recommendationservice](https://github.com/bentohset/go-eats/tree/main/recommendationservice) |
 | Form + Admin Dashboard | [go-eats-form repo](https://github.com/bentohset/go-eats-form)                                 |
-| REST API Server        | [go-eats-server repo](https://github.com/bentohset/go-eats-server)                             |
+| REST Web Server        | [go-eats-server repo](https://github.com/bentohset/go-eats-server)                             |
 Refer to the README in each folder/repo for more developer details
 
 
